@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="RHF8aZZjcqpzq" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Reduction</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="reduction_organization">
+		<organization identifier="reduction_organization">
+
+			<title>Reduction</title>
+			<item identifier="C0698508-D740-4DAF-92F4-40FF87ABD634" identifierref="resource">
+				<title>Reduction</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-15a06bfb2aff9ec457708fe7581087055020b130.mp3"/>
+<file href="res/data/audios/snd-1a9f8fabd849cb49fd5041b60606b324f7ebf67d.mp3"/>
+<file href="res/data/audios/snd-2375b96d8b2072b8dd690093c35dad6aacbeb3c1.mp3"/>
+<file href="res/data/audios/snd-65f2ba5096c938e2f84040a818d00d747066e981.mp3"/>
+<file href="res/data/audios/snd-84ce296010df098625324c17dae8cbc899edd21d.mp3"/>
+<file href="res/data/audios/snd-9017112e3b27068dd08538286fb411483fd59e2c.mp3"/>
+<file href="res/data/audios/snd-97b54aa42fd25ff44ce1cf60fa7d016d64dce9c3.mp3"/>
+<file href="res/data/audios/snd-9d5990191718e063c67cd113e36f33a94a287049.mp3"/>
+<file href="res/data/audios/snd-bede2979b1e911176681747a7fbfe6e11a4a421c.mp3"/>
+<file href="res/data/audios/snd-e91905478613b0a5a624c6701d7dd10ddaf7f880.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
